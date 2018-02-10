@@ -1,0 +1,135 @@
+#fondo{
+	background-color: lightblue;
+	
+	width: 1250px;
+	height: 570px;
+}
+
+#contentTop{
+	background:white;
+	margin: auto;
+	width: 1200px;
+	height: 150px;
+	
+}
+
+#contentBotom{
+	background-color: white;
+	margin: auto;
+	width: 1200px;
+	height: 420px;
+
+}
+
+#A{
+	background-color: white;
+	margin-left: 25px;
+	padding: 0px;
+	width: 800px;
+	height: 300px;
+	border-bottom: 5px solid gray;
+}
+
+#Adentro{
+	width: 770px;
+	height: 300px;
+	margin-left: 25px;
+	padding: 25px;
+}
+#B{
+	background-color: white;
+	border-left: 5px solid gray;
+	margin-right:25px; 
+	width: 400px;
+	height: 300px;
+	float: right;
+	border-left: 5px solid gray;
+	border-bottom: 5px solid gray;
+}
+
+#Bdentro{
+	padding-top: 15px;
+	width: 370px;
+	height: 300px;
+	float: right;
+	padding-left: 20px;
+	padding-right: 5px;
+}
+
+#imgLeft, #imgCenter, #imgRight{
+	width: 400px;
+	height: 115px;
+}
+
+#imgLeft{
+	float: left;
+	background-color: red;
+	margin-left:25px;  
+}
+
+#imgCenter{
+	height: 115px;
+	background-color: green;
+	margin-left: 425px;
+	float: center;
+}
+
+
+#imgRight{
+	height: 115px;
+	background-color: white;
+	margin-right: 25px;
+	float: right;
+}
+
+
+#copyRighties{
+	background-color:white;
+	border: 1px solid black;
+	height: 25px;  
+}
+
+table#tComic{
+	background-color: white;
+	margin-top: 155px;
+	margin-left: 25px;
+	float: left;
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	width: 1200px;
+	height: 420px;
+	font-family: arial;
+
+}
+
+td, th, table{
+	width: 400px;
+	background-color: white;
+	border: 2px solid black;
+	border-collapse: collapse;
+	text-align: center;
+
+}
+
+th#pinta{
+	background-color: #66a3ff;
+	color: black;
+	font-style: bold;
+}
+
+#imgizq{
+	float: left;
+	padding: 5px;
+}
+
+#imgIcons{
+	float: right;
+	width: 50px;
+	height:50px;
+}
+
+#contact{
+	float: center;
+}
+
